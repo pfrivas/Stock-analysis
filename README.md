@@ -4,6 +4,12 @@
 
 ## Overview of Project
 
+* Steve's parent want to know how actively SQ was traded in 2018. They believe that if a stock is traded often, then the price will accurately reflect the value of the stock. If we sum up all of the daily volume for DQ, we'll have the yearly volume and a rough idea of how often it gets traded
+
+* Steve wants to know how well DQ performed in 2018, one way to measure that is calculate the yearly return for DQ, the yearly return is the percentage increase or decrease in price from the beginning to the end of the year
+
+* Usage of loops and conditions and checking the conditions using logical (Boolean) operators 
+
 ### Purpose
 
 ### Background
