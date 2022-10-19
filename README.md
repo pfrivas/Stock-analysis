@@ -1,4 +1,4 @@
-# Stock Analysis
+# Stock Analysis - VBA Script
 
 Click here to view the Excel File: [VBA_Challenge.xlsm](https://github.com/pfrivas/Stock-analysis/blob/f515dfda59066d5db5f37cf1ad8fdaf2a1f123af/VBA_Challenge.xlsm)
 
