@@ -59,12 +59,12 @@ Below is the screenshot for the 2018 stock
     
         For i = 0 To 11
         
-        tickerVolumes(i) = 0
+            tickerVolumes(i) = 0
         
-        tickerStartingPrices(i) = 0
+            tickerStartingPrices(i) = 0
         
-        tickerEndingPrices(i) = 0
-     Next i
+            tickerEndingPrices(i) = 0
+         Next i
    
     ''2b) Loop over all the rows in the spreadsheet.
     
