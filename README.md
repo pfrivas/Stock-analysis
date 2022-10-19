@@ -64,8 +64,7 @@ Below is the screenshot for the 2018 stock
         tickerStartingPrices(i) = 0
         
         tickerEndingPrices(i) = 0
-    
-    Next i
+     Next i
    
     ''2b) Loop over all the rows in the spreadsheet.
     
@@ -101,7 +100,6 @@ Below is the screenshot for the 2018 stock
                 tickerIndex = tickerIndex + 1
             
             End If
-    
        Next i
     
    '4) Loop through your arrays to output the Ticker, Total Daily Volume, and Return.
