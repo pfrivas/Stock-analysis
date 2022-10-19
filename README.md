@@ -22,6 +22,11 @@ The purpose of this project is to use Microsoft Excel VBA (Visual Basic for Appl
 ### Analysis 
 
 ### Screenshots
+Below is the screenshot for the 2017 stock
+<img width="672" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/110814780/196634036-5480b392-5fec-43ab-9c5c-a87e305de55a.png">
+
+Below is the screenshot for the 2018 stock
+<img width="665" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/110814780/196634061-a9a8db7e-566b-4382-99c6-b85843c2a406.png">
 
 ### Code
 
