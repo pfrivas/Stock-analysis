@@ -102,11 +102,11 @@ Below is the screenshot for the 2018 stock
             
             End If
     
-    Next i
+       Next i
     
    '4) Loop through your arrays to output the Ticker, Total Daily Volume, and Return.
     
-    For i = 0 To 11
+       For i = 0 To 11
         
         'Output data for current ticker
         Worksheets("All Stocks Analysis").Activate
@@ -114,8 +114,7 @@ Below is the screenshot for the 2018 stock
             Cells(4 + i, 1).Value = tickers(i)
             Cells(4 + i, 2).Value = tickerVolumes(i)
             Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
-        
-    Next i
+       Next i
    
 ---
 
